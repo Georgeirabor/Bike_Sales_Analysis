@@ -1,8 +1,10 @@
 # BIKE SALE ANALYSIS
-Introduction
+## Introduction
+
 This analysis was carried out to answer specific questions about bike buyers of different educational degree, age brackets income e.t.c in a specific region. 
 
 This analysis was done using the PYTHON PROGRAMMING language
+
 ## Objectives
 The primary goals of this analysis are
 1.	To understand the trends and patterns in bike sales dataset
@@ -11,7 +13,8 @@ The primary goals of this analysis are
 4.	To provide actionable insight through visualization that can guide business decisions and strategy
 
 ## Data Analysis Process
-Data Collection
+
+## Data Collection
 1.	This data was collected from an email sent by the class facilitator Joseph Elijah. The mail contained two files, which contained the Assessment spreadsheet and the group assessment question. 
 2.	The assessment spreadsheet was opened using Microsoft excel, and several data columns and rows containing various data elements was observed. 
 3.	The file containing the assessment questions was used to analyze the data.
